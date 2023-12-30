@@ -172,10 +172,11 @@ grid-column: span 2;
     gap: 10px;
     position: relative;
     overflow: hidden;
+    justify-content: space-around;
 }
 .sygnet{
     position: absolute;
-    margin-top: 100px;
+    /* margin-top: px; */
 }
 .world{
     font-family: 'Work Sans', Arial, sans-serif ;
